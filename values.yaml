@@ -1,5 +1,5 @@
 image:
-  repository: api-image
+  repository: helloitsurdvq/api
   tag: latest
 
 service:
