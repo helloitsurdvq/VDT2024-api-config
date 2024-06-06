@@ -1,0 +1,6 @@
+image:
+  repository: api-image
+  tag: latest
+
+service:
+  nodePort: 30081
